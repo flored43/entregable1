@@ -1,0 +1,9 @@
+.quotebox {
+    max-width: 400px;
+}
+
+.quotebox_author {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+}
